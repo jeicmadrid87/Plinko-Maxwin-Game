@@ -1,4 +1,4 @@
-# Plinko-Maxwin-Game
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
